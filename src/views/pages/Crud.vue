@@ -5,6 +5,7 @@ import ProductService from '@/service/ProductService';
 import { useToast } from 'primevue/usetoast';
 
 const toast = useToast();
+const variable = "";
 
 
 const products = ref(null);
