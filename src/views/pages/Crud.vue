@@ -10,6 +10,8 @@ const variable2 = "";
 
 
 
+
+
 const products = ref(null);
 const productDialog = ref(false);
 const deleteProductDialog = ref(false);
