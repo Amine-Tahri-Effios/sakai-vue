@@ -8,6 +8,7 @@ const toast = useToast();
 const variable = "";
 
 
+
 const products = ref(null);
 const productDialog = ref(false);
 const deleteProductDialog = ref(false);
