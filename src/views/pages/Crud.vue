@@ -6,6 +6,7 @@ import { useToast } from 'primevue/usetoast';
 
 const toast = useToast();
 
+
 const products = ref(null);
 const productDialog = ref(false);
 const deleteProductDialog = ref(false);
